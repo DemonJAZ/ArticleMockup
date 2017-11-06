@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* In this project i learned how to use various tag in html that are mostly used to format    text in a website.
+
+* The Mockup provided made things easy , just editing was required , the links to the images and anchor tags was already provided.
+
+* Some of the tags are not easy to remember and were new to me example <strike> and <sup> tags.Had to look up on the internet about them.
+
+* Yes , Most of the help was provided to me by Stackoverflow. :)
